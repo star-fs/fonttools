@@ -1270,7 +1270,7 @@ otData = [
 	]),
 
 	('NoncontextualMorph', [
-		('AATLookup', 'mapping', None, None, 'The noncontextual glyph substitution table.'),
+		('AATLookup(GlyphID)', 'mapping', None, None, 'The noncontextual glyph substitution table.'),
         ]),
 
 	('InsertionMorph', [
